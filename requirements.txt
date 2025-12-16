@@ -1,0 +1,5 @@
+streamlit
+pint
+coolprop
+plotly
+pandas
